@@ -46,6 +46,7 @@ function App() {
             <About path="/About"/>
             <Contact path="/Contact"/>
         </Router>
+        <br/><br/><br/>
       <ComponentList setDemo={setDemo} />
       <DemoDisplay demo={demo} />
     </div>
